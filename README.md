@@ -80,6 +80,7 @@ python essay_reviser.py --batch_size 8 --llm qwen --quality high
 <!-- ```markdown -->
 <pre>
 FeedEval
+├──assets
 ├──data
 │   ├── fold_0
 │   ├── fold_1
@@ -87,21 +88,21 @@ FeedEval
 │   ├── fold_3
 │   ├── fold_4
 │   ├── rubric
-│   ├── filtered_low_score_data
 │   ├── entire_data.csv
 │   ├── feedback_preference_dataset.json
 │   ├── speceval_dataset.json
 │   ├── validity_dataset.csv
 │   └── filtered_low_score_data
-├──essay_reviser.py
-├──gpt_feedback_generation.py
-├──gpt_model.py
-├──specificity_evaluator.py
-├──helpfulness_evaluator.py
-├──validity_evaluator.py
-├──sft_essay_evaluation.py
-├──sft_essay_scoring.py
-├──evaluation
+├──srcs
+│   ├──essay_reviser.py
+│   ├──gpt_feedback_generation.py
+│   ├──gpt_model.py
+│   ├──specificity_evaluator.py
+│   ├──helpfulness_evaluator.py
+│   ├──validity_evaluator.py
+│   ├──sft_essay_evaluation.py
+│   ├──sft_essay_scoring.py
+│   └──evaluation.py
 └──requirements.txt
 </pre>
 
