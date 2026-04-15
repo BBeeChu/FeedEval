@@ -1,0 +1,26 @@
+{
+    "content": {
+        "3": "\n       Tells a story with ideas that are clearly focused on the topic and are thoroughly developed with\n    specific, relevant details.\n    ",
+        "2": "\n      Tells a story with ideas that are somewhat focused on the topic and are developed with a mix of\n    specific and/or general details.\n    ",
+        "1": "\n        Tells a story with ideas that are minimally focused on the topic and developed with limited\n    and/or general details.\n    ",
+        "0": "\n       Ideas are not focused on the task and/or are undeveloped.\n    "
+    },
+    "conventions": {
+        "3": "\n        Consistent, appropriate use of conventions of Standard English for grammar, usage, spelling,\n        capitalization, and punctuation for the grade level.\n        ",
+        "2": "\n        Adequate use of conventions of Standard English for grammar, usage, spelling, capitalization,\n        and punctuation for the grade level.\n        ",
+        "1": "\n        Limited use of conventions of Standard English for grammar, usage, spelling, capitalization, and\n        punctuation for the grade level.\n        ",
+        "0": "\n        \u200bIneffective use of conventions of Standard English for grammar, usage, spelling, capitalization,\n        and punctuation.\n        "
+    },
+    "organization": {
+        "3": "\n        Organization and connections between ideas and/or events are clear and logically sequenced.\n    ",
+        "2": "\n        Organization and connections between ideas and/or events are logically sequenced.\n    ",
+        "1": "\n        Organization and connections between ideas and/or events are weak.\n    ",
+        "0": "\n        \u200bNo organization evident.\n    "
+    },
+    "style": {
+        "3": "\n        Command of language, including effective and compelling word choice and varied sentence\n        structure, clearly supports the writer's purpose and audience.\n    ",
+        "2": "\n        Adequate command of language, including effective word choice and clear sentences, supports\n        the writer's purpose and audience.\n    ",
+        "1": "\n        Limited use of language, including lack of variety in word choice and sentences, may hinder\n        support for the writer's purpose and audience.\n    ",
+        "0": "\n        Ineffective use of language for the writer's purpose and audience.\n    "
+    }
+}
